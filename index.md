@@ -2,7 +2,7 @@
 layout: default2
 ---
 
-Je suis doctorant en cryptographie dans l'équipe de théorie des nombres à l'ENS de Lyon encadré par Benjamin Wesolowski. 
+Je suis doctorant en cryptographie dans l'équipe de théorie des nombres à l'ENS de Lyon encadré par <a href="https://bweso.com/index.php" target="_blank" rel="noopener">Benjamin Wesolowski</a>.
 
 # Centres d'intérets :
 
