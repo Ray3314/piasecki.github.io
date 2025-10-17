@@ -14,7 +14,7 @@ que j'apprécie particulièrement.
 Avant ma thèse j'ai appris les bases de la cryptographie dans le master Algèbre Appliquée à l'université Paris-Saclay et la géométrie algébrique au M2 mathématiques fondamentales de Sorbonne
 Université en commun avec l'université Paris-cité et Sorbonne Paris-Nord. J'ai effectué ma licence à Bordeaux.
 
-
+## Liens
 *   Pour les documents d'[enseignement](./Enseignement.html).    
 *   Pour mes activités lié à la [recherche](./Recherche.html).
 
