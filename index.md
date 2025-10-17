@@ -2,17 +2,17 @@
 layout: default
 ---
 
-Doctorant en cryptographie dans l'équipe de théorie des nombres à l'ENS de Lyon à l'Unité de Mathématiques Pure et Appliqués (UMPA) encadré par Benjamin Wesolowski. 
+Je suis doctorant en cryptographie dans l'équipe de théorie des nombres à l'ENS de Lyon encadré par Benjamin Wesolowski. 
 
-# Centre d'intéret :
+# Centres d'intérets :
 
-Je suis principalement intéressé par la cryptographie a base de courbes elliptiques et plus généralement a base de variétés abéliennes. Cela me place entre cryptographie et géométrie algébriques, deux domaines
-que j'apprécie particulièrement.
+Je suis principalement intéressé par la cryptographie a base de courbes elliptiques et plus généralement a base de variétés abéliennes. 
 
 # Formations
 
-Avant ma thèse j'ai appris les bases de la cryptographie dans le master Algèbre Appliquée à l'université Paris-Saclay et la géométrie algébrique au M2 mathématiques fondamentales de Sorbonne
-Université en commun avec l'université Paris-cité et Sorbonne Paris-Nord. J'ai effectué ma licence à Bordeaux.
+J’ai commencé mon parcours en mathématiques à l’Université de Bordeaux, où j’ai obtenu ma licence.
+J’ai ensuite effectué le master de mathématiques fondamentales à Sorbonne Université où j'y ai notamment etudié la géométrie algébrique.
+Enfin, j’ai découvert les bases de la cryptographie au sein du master Algèbre Appliquée de l’Université Paris-Saclay.
 
 ## Liens
 *   Pour les documents d'[enseignement](./Enseignement.html).    
