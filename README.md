@@ -1,2 +1,2 @@
-# piasecki.github.io
+# Etienne Piasecki
 Page personelle
