@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2
 ---
 
 Je suis doctorant en cryptographie dans l'équipe de théorie des nombres à l'ENS de Lyon encadré par Benjamin Wesolowski. 
