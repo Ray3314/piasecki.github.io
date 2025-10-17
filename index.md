@@ -15,9 +15,10 @@ Avant ma thèse j'ai appris les bases de la cryptographie dans le master Algèbr
 Université en commun avec l'université Paris-cité et Sorbonne Paris-Nord. J'ai effectué ma licence à Bordeaux.
 
 
+*   Pour les documents d'[enseignement](./Enseignement.html).    
+*   Pour mes activités lié à la [recherche](./Recherche.html).
 
-Pour les documents d'[enseignement](./Enseignement.html).
-Pour mes activités lié à la [recherche](./Recherche.html)
+
 
 
 
